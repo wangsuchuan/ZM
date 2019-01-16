@@ -1,1 +1,12 @@
-# Created by .ignore support plugin (hsz.mobi)
+target/
+/.settings
+/.externalToolBuilders
+/.classpath
+/.project
+.idea/
+*.iml
+rebel.xml
+.DS_Store
+sftp-config.json
+.mvn/
+/build
